@@ -1,13 +1,10 @@
-javascript-video-scrubber
+ImageSequenceScroller
 =========================
 
-A demonstration of how to scrub through a video (JPEG sequence) with native window scrolling position (As seen on NikeResponsibility.com)
+A demonstration of how to scroll through a video (image sequence) with native window scrolling position 
 
 
-Created by Gary Hepting and the Dev Team at Emerge Interactive
-Visit Emerge Interctive at [http://emergeinteractive.com/]
 
-View the live demo at [http://emergeinteractive.com/demos/javascript-video-scrubber/]
 
 
 OVERVIEW:
@@ -31,3 +28,5 @@ Included in the 'source files' folder are two things:
 
 1) A PSD file for creating your own custom grid overlay pattern
 2) An Adobe Fireworks batch script for batch optimizing your own image sequence 
+
+Created by Gary Hepting and the Dev Team at Emerge Interactive [http://emergeinteractive.com/]. View the live demo at [http://emergeinteractive.com/demos/javascript-video-scrubber/]. As seen on NikeResponsibility.com
