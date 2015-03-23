@@ -3,7 +3,7 @@ ImageSequenceScroller
 
 A demonstration of how to scroll through a video (image sequence) with native window scrolling position 
 
-
+http://rawgit.com/tylorhess/ImageSequenceScroller/master/index.html
 
 
 
@@ -29,4 +29,4 @@ Included in the 'source files' folder are two things:
 1) A PSD file for creating your own custom grid overlay pattern
 2) An Adobe Fireworks batch script for batch optimizing your own image sequence 
 
-Created by Gary Hepting and the Dev Team at Emerge Interactive [http://emergeinteractive.com/]. View the live demo at [http://emergeinteractive.com/demos/javascript-video-scrubber/]. As seen on NikeResponsibility.com
+Created by Gary Hepting and the Dev Team at Emerge Interactive (emergeinteractive.com). View the live demo at (emergeinteractive.com/demos/javascript-video-scrubber/). As seen on NikeResponsibility.com
