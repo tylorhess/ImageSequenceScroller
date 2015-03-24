@@ -30,3 +30,5 @@ Included in the 'source files' folder are two things:
 2) An Adobe Fireworks batch script for batch optimizing your own image sequence 
 
 Created by Gary Hepting and the Dev Team at Emerge Interactive (emergeinteractive.com). View the live demo at (emergeinteractive.com/demos/javascript-video-scrubber/). As seen on NikeResponsibility.com
+
+Hi Xian!
